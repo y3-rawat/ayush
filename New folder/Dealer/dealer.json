@@ -1,0 +1,144 @@
+[{
+    "dealer_id": 1,
+    "car_added": {
+        "Ferrari 488 Pista": 100000,
+        "McLaren 720S": 100000,
+        "MARK IV RED": 47200
+    },
+    "peoples_visited": 450,
+    "visited_logs": {
+        "Ferrari 488 Pista": 200,
+        "McLaren 720S": 150,
+        "MARK IV RED": 100
+    },
+    "Total bid placed on cars": 70000,
+    "bid_placed_on_cars": {
+        "Ferrari 488 Pista": 30000,
+        "McLaren 720S": 25000,
+        "MARK IV RED": 15000
+    }
+}
+,
+{
+    "dealer_id": 2,
+    "car_added": {
+        "2014 Lamborghini Aventador": 35000,
+        "Ferrari 458": 255000,
+        "Ferrari 488 Pista": 100000
+    },
+    "peoples_visited": 600,
+    "visited_logs": {
+        "2014 Lamborghini Aventador": 300,
+        "Ferrari 458": 200,
+        "Ferrari 488 Pista": 100
+    },
+    "Total bid placed on cars": 80000,
+    "bid_placed_on_cars": {
+        "2014 Lamborghini Aventador": 40000,
+        "Ferrari 458": 30000,
+        "Ferrari 488 Pista": 10000
+    }
+}
+,
+{
+    "dealer_id": 3,
+    "car_added": {
+        "McLaren 720S": 100000,
+        "MARK IV RED": 47200,
+        "2014 Lamborghini Aventador": 35000
+    },
+    "peoples_visited": 500,
+    "visited_logs": {
+        "McLaren 720S": 250,
+        "MARK IV RED": 150,
+        "2014 Lamborghini Aventador": 100
+    },
+    "Total bid placed on cars": 75000,
+    "bid_placed_on_cars": {
+        "McLaren 720S": 35000,
+        "MARK IV RED": 25000,
+        "2014 Lamborghini Aventador": 15000
+    }
+}
+,{
+    "dealer_id": 4,
+    "car_added": {
+        "Ferrari 458": 255000,
+        "Ferrari 488 Pista": 100000,
+        "McLaren 720S": 100000
+    },
+    "peoples_visited": 550,
+    "visited_logs": {
+        "Ferrari 458": 250,
+        "Ferrari 488 Pista": 200,
+        "McLaren 720S": 100
+    },
+    "Total bid placed on cars": 60000,
+    "bid_placed_on_cars": {
+        "Ferrari 458": 25000,
+        "Ferrari 488 Pista": 20000,
+        "McLaren 720S": 15000
+    }
+}
+,
+{
+    "dealer_id": 5,
+    "car_added": {
+        "MARK IV RED": 47200,
+        "2014 Lamborghini Aventador": 35000,
+        "Ferrari 458": 255000
+    },
+    "peoples_visited": 520,
+    "visited_logs": {
+        "MARK IV RED": 220,
+        "2014 Lamborghini Aventador": 180,
+        "Ferrari 458": 120
+    },
+    "Total bid placed on cars": 67000,
+    "bid_placed_on_cars": {
+        "MARK IV RED": 30000,
+        "2014 Lamborghini Aventador": 25000,
+        "Ferrari 458": 12000
+    }
+}
+,{
+    "dealer_id": 6,
+    "car_added": {
+        "Ferrari 488 Pista": 100000,
+        "McLaren 720S": 100000,
+        "MARK IV RED": 47200
+    },
+    "peoples_visited": 480,
+    "visited_logs": {
+        "Ferrari 488 Pista": 200,
+        "McLaren 720S": 150,
+        "MARK IV RED": 130
+    },
+    "Total bid placed on cars": 90000,
+    "bid_placed_on_cars": {
+        "Ferrari 488 Pista": 40000,
+        "McLaren 720S": 30000,
+        "MARK IV RED": 20000
+    }
+}
+,{
+    "dealer_id": 7,
+    "car_added": {
+        "2014 Lamborghini Aventador": 35000,
+        "Ferrari 458": 255000,
+        "Ferrari 488 Pista": 100000
+    },
+    "peoples_visited": 700,
+    "visited_logs": {
+        "2014 Lamborghini Aventador": 300,
+        "Ferrari 458": 250,
+        "Ferrari 488 Pista": 150
+    },
+    "Total bid placed on cars": 120000,
+    "bid_placed_on_cars": {
+        "2014 Lamborghini Aventador": 50000,
+        "Ferrari 458": 40000,
+        "Ferrari 488 Pista": 30000
+    }
+}
+]

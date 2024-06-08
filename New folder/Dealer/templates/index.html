@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eurotech Xchange Bot</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .container { width: 50%; margin: auto; }
+        .chat-container { border: 1px solid #ccc; padding: 10px; margin-top: 10px; }
+        .user { color: blue; }
+        .bot { color: green; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Eurotech Xchange Bot</h2>
+        <div id="chat-container" class="chat-container"></div>
+        <form id="chat-form">
+            <input type="hidden" id="unique_id" name="unique_id" value="1">
+            <input type="text" id="query" name="query" placeholder="Talk to your CSV data here (:">
+            <button type="submit">Send</button>
+        </form>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            function updateChat(past, generated) {
+                let chatContainer = $('#chat-container');
+                chatContainer.html('');
+                for (let i = 0; i < past.length; i++) {
+                    chatContainer.append(`<div class="user">User: ${past[i]}</div>`);
+                    chatContainer.append(`<div class="bot">Bot: ${generated[i]}</div>`);
+                }
+            }
+
+            $('#chat-form').on('submit', function(e) {
+                e.preventDefault();
+                let query = $('#query').val();
+                let unique_id = $('#unique_id').val();
+                $.post('/chat', { query: query, unique_id: unique_id }, function(data) {
+                    $('#query').val('');
+                    updateChat(data.past, data.generated);
+                });
+            });
+
+            // Initial load
+            $.post('/chat', { query: '', unique_id: $('#unique_id').val() }, function(data) {
+                updateChat(data.past, data.generated);
+            });
+        });
+    </script>
+</body>
+</html>

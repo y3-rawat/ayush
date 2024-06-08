@@ -1,0 +1,77 @@
+{
+    "dealers_data": {
+      "Sales_and_Customer_Inquiries": {
+        "leads_today": 35,
+        "appointments_scheduled": [
+          {"date": "2024-05-20", "time": "10:00 AM", "customer": "John Doe"},
+          {"date": "2024-05-21", "time": "2:00 PM", "customer": "Jane Smith"},
+          {"date": "2024-05-22", "time": "11:30 AM", "customer": "Bob Johnson"}
+        ],
+        "pending_sales": [
+          {"customer": "Alice Brown", "car_model": "BMW X5", "status": "pending"},
+          {"customer": "Charlie Davis", "car_model": "Audi Q7", "status": "pending"}
+        ]
+      },
+      "Inventory_Management": {
+        "latest_additions": [
+          {"car_model": "2023 Model Y", "price": 5000000},
+          {"car_model": "2024 Model S", "price": 7500000}
+        ],
+        "listing_price_update": [
+          {"car_model": "2023 Model Y", "new_price": 5500000}
+        ],
+        "unviewed_cars": [
+          {"car_model": "Tesla Model 3", "last_viewed": "2024-04-10"},
+          {"car_model": "Ford Mustang", "last_viewed": "2024-04-05"}
+        ]
+      },
+      "Customer_Engagement_and_Follow_ups": {
+        "follow_up_messages": [
+          {"customer": "Eve White", "visit_date": "2024-05-10"},
+          {"customer": "Frank Green", "visit_date": "2024-05-11"}
+        ],
+        "customer_feedback": [
+          {"month": "April 2024", "feedback": "Great service and friendly staff."},
+          {"month": "May 2024", "feedback": "Quick and efficient process."}
+        ],
+        "common_questions": [
+          "What are the financing options?",
+          "Do you offer trade-ins?",
+          "What is the warranty period?"
+        ]
+      },
+      "Performance_Tracking_and_Analytics": {
+        "total_sales_last_month": 150,
+        "sales_comparison": [
+          {"quarter": "Q1 2024", "sales": 400},
+          {"quarter": "Q2 2024", "sales": 350}
+        ],
+        "sales_trend_SUVs": [
+          {"month": "January 2024", "sales": 50},
+          {"month": "February 2024", "sales": 60},
+          {"month": "March 2024", "sales": 70},
+          {"month": "April 2024", "sales": 80}
+        ]
+      },
+      "Promotions_and_Marketing": {
+        "promotions": [
+          {"promotion": "End-of-season discounts", "status": "scheduled", "start_date": "2024-06-01"}
+        ],
+        "email_campaigns": [
+          {"campaign": "Spring Sale", "effectiveness": "high", "open_rate": 75, "click_rate": 30}
+        ],
+        "new_listings": [
+          {"listing": "Holiday Sale", "description": "Special offers on all models"}
+        ]
+      },
+      "FAQs": {
+        "payment_confirmation": "You will receive a confirmation email once the amount is received.",
+        "online_sales_guidelines": "Ensure all documents are uploaded and verified for online sales."
+      },
+      "Feedback_and_Complaints": {
+        "report_problem": "Contact our support team at support@example.com or call 123-456-7890.",
+        "leave_feedback": "Visit our website and fill out the feedback form under the 'Contact Us' section."
+      }
+    }
+  }
+  

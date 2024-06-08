@@ -1,0 +1,79 @@
+
+    [
+      {
+        "user_id": 1,
+        "Booked_car": "Tesla Model S",
+        "Price_of_car": 12000000,
+        "logs": [
+          {
+            "visit_cars": ["Ford Mustang", "Chevrolet Camaro", "BMW X5"]
+          }
+        ],
+        "bid_in_amount": {
+          "Jaguar": 53421,
+          "Lamborghini": 4532,
+          "Porsche": 53423
+        }
+      },
+      {
+        "user_id": 2,
+        "Booked_car": "Audi A8",
+        "Price_of_car": 9500000,
+        "logs": [
+          {
+            "visit_cars": ["Mercedes-Benz E-Class", "Lexus ES", "Volvo S90"]
+          }
+        ],
+        "bid_in_amount": {
+          "Jaguar": 67890,
+          "Lamborghini": 12345,
+          "Porsche": 98765
+        }
+      },
+      {
+        "user_id": 3,
+        "Booked_car": "BMW 7 Series",
+        "Price_of_car": 11000000,
+        "logs": [
+          {
+            "visit_cars": ["Cadillac CT6", "Genesis G90", "Audi A6"]
+          }
+        ],
+        "bid_in_amount": {
+          "Jaguar": 34567,
+          "Lamborghini": 89012,
+          "Porsche": 45678
+        }
+      },
+      {
+        "user_id": 4,
+        "Booked_car": "Mercedes-Benz S-Class",
+        "Price_of_car": 13000000,
+        "logs": [
+          {
+            "visit_cars": ["Jaguar XF", "Maserati Quattroporte", "Tesla Model X"]
+          }
+        ],
+        "bid_in_amount": {
+          "Jaguar": 23456,
+          "Lamborghini": 78901,
+          "Porsche": 12345
+        }
+      },
+      {
+        "user_id": 5,
+        "Booked_car": "Lexus LS",
+        "Price_of_car": 10500000,
+        "logs": [
+          {
+            "visit_cars": ["Infiniti Q70", "Acura RLX", "Lincoln Continental"]
+          }
+        ],
+        "bid_in_amount": {
+          "Jaguar": 45678,
+          "Lamborghini": 67890,
+          "Porsche": 23456
+        }
+      }
+    ]
+  

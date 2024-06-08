@@ -1,0 +1,12 @@
+[{"total_users_visited":534,
+"Repetative_Users_id":[1,2,4,3],
+"Most_car_viewed_user_id":[4],
+"Dealers_on_webiste":432,
+"Transections_history":{"approved":3,"pending":1},
+"Car_Sold_total":4321,
+"Car_sold_last_month":54,
+"top_5_cars_viewd": ["Ford Mustang", "Chevrolet Camaro", "BMW X5", "Audi A8", "Mercedes-Benz E-Class"],
+"common_issues_on_webiste": ["webiste has too much loading time", "cars are expencive"],
+"most_bids_of_cars": {"Jaguar": 53421, "Lamborghini": 4532, "Porsche": 53423},
+"total_cars_in_inventory": 21
+}]

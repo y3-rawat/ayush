@@ -1,0 +1,785 @@
+Privacy policy
+Information on data protection and our privacy policy
+Personal Data processed for the following purposes and using the following services:
+
+Advertising
+Personal Data: Trackers; Usage Data
+
+Analytics
+Matomo, Google Analytics, Facebook Ads conversion tracking (Facebook pixel), Meta Events Manager, Google Ads conversion tracking, Hotjar Form Analysis & Conversion Funnels, Twitter Ads conversion tracking and Demandbase conversion tracking Personal Data: Trackers; Usage Data Outbrain conversion tracking (Outbrain pixel) Personal Data: device information; Trackers; Universally unique identifier (UUID); Usage Data
+
+Displaying content from external platforms
+Google Fonts Personal Data: Trackers; Usage Data
+
+Handling payments
+Stripe Personal Data: various types of Data as specified in the privacy policy of the service
+
+Heat mapping and session recording
+Hotjar Heat Maps & Recordings Personal Data: Trackers; Usage Data; various types of Data as specified in the privacy policy of the service
+
+Interaction with data collection platforms and other third parties
+Mailchimp widget Personal Data: email address; first name; last name; phone number Hotjar Recruit User Testers Personal Data: Trackers; Usage Data; various types of Data MailerLite widget Personal Data: various types of Data
+
+Interaction with online survey platforms
+Hotjar Poll & Survey widgets Personal Data: Trackers; Usage Data; various types of Data
+
+Managing contacts and sending messages
+Klaviyo Personal Data: various types of Data
+
+Managing data collection and online surveys
+Hotjar surveys Personal Data: Data communicated while using the service
+
+Platform services and hosting
+Webflow Personal Data: Trackers; Usage Data; various types of Data as specified in the privacy policy of the service
+
+Tag Management
+Segment Personal Data: Data communicated in order to use the Service Google Tag Manager Personal Data: Usage Data
+
+Traffic optimization and distribution
+Cloudflare Personal Data: various types of Data as specified in the privacy policy of the service
+
+User database management
+HubSpot CRM Personal Data: various types of Data as specified in the privacy policy of the service
+
+Information on opting out of interest-based advertising
+In addition to any opt-out feature provided by any of the services listed in this document, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section of the Cookie Policy.
+
+Terms of use
+Unless otherwise specified, the terms of use detailed in this section apply generally when using this Website. Single or additional conditions of use or access may apply in specific scenarios and in such cases are additionally indicated within this document. By using this Website, Users confirm to meet the following requirements:
+There are no restrictions for Users in terms of being Consumers or Business Users;
+
+Account registration
+To use the Service Users may register or create a User account, providing all required data or information in a complete and truthful manner. Users may also use the Service without registering or creating a User account, however, this may cause limited availability of certain features or functions. Users are responsible for keeping their login credentials confidential and safe. For this reason, Users are also required to choose passwords that meet the highest standards of strength permitted by this Website. By registering, Users agree to be fully responsible for all activities that occur under their username and password. Users are required to immediately and unambiguously inform the Owner via the contact details indicated in this document, if they think their personal information, including but not limited to User accounts, access credentials or personal data, have been violated, unduly disclosed or stolen.
+Conditions for account registration Registration of User accounts on this Website is subject to the conditions outlined below. By registering, Users agree to meet such conditions.
+Accounts registered by bots or any other automated methods are not permitted.
+Unless otherwise specified, each User must register only one account.
+Unless explicitly permitted, a User account may not be shared with other persons.
+
+Account termination
+Users can terminate their account and stop using the Service at any time by doing the following:
+By directly contacting the Owner at the contact details provided in this document.
+
+Account suspension and deletion
+The Owner reserves the right, at its sole discretion, to suspend or delete at any time and without notice, User accounts which it deems inappropriate, offensive or in violation of these Terms. The suspension or deletion of User accounts shall not entitle Users to any claims for compensation, damages or reimbursement. The suspension or deletion of accounts due to causes attributable to the User does not exempt the User from paying any applicable fees or prices.
+
+Content on this website
+Unless where otherwise specified or clearly recognizable, all content available on this Website is owned or provided by the Owner or its licensors. The Owner undertakes its utmost effort to ensure that the content provided on this Website infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result. In such cases, without prejudice to any legal prerogatives of Users to enforce their rights, Users are kindly asked to preferably report related complaints using the contact details provided in this document.
+
+Rights regarding content on this website - all rights reserved
+The Owner holds and reserves all intellectual property rights for any such content. Users may not therefore use such content in any way that is not necessary or implicit in the proper use of the Service. In particular, but without limitation, Users may not copy, download, share (beyond the limits set forth below), modify, translate, transform, publish, transmit, sell, sublicense, edit, transfer/assign to third parties or create derivative works from the content available on this Website, nor allow any third party to do so through the User or their device, even without the User's knowledge. Where explicitly stated on this Website, the User may download, copy and/or share some content available through this Website for its sole personal and non-commercial use and provided that the copyright attributions and all the other attributions requested by the Owner are correctly implemented. Any applicable statutory limitation or exception to copyright shall stay unaffected.
+
+Content provided by users
+The Owner allows Users to upload, share or provide their own content to this Website. By providing content to this Website, Users confirm that they are legally allowed to do so and that they are not infringing any statutory provisions and/or third-party rights. Further insights regarding acceptable content can be found inside the section of these Terms which detail the acceptable uses. Users acknowledge and accept that by providing their own content to this Website they grant the Owner a non-exclusive, worldwide, fully paid-up and royalty-free, irrevocable, perpetual (or for the entire protection term), sub-licensable and transferable license to use, access, store, reproduce, modify, distribute, publish, process into derivative works, broadcast, stream, transmit or otherwise exploit such content to provide and promote its Service in any media or manner. To the extent permitted by applicable law, Users waive any moral rights in connection with content they provide to this Website. Users acknowledge, accept and confirm that all content they provide through this Website is provided subject to the same general conditions set forth for content on this Website.
+
+Liability for provided content
+Users are solely liable for any content they upload, post, share, or provide through this Website. Users acknowledge and accept that the Owner does not filter or moderate such content. However, the Owner reserves the right to remove, delete, block or rectify such content at its own discretion and to, without prior notice, deny the uploading User access to this Website:
+if any complaint based on such content is received;
+if a notice of infringement of intellectual property rights is received;
+upon order of a public authority; or
+where the Owner is made aware that the content, while being accessible via this Website, may represent a risk for Users, third parties and/or the availability of the Service.
+The removal, deletion, blocking or rectification of content shall not entitle Users that have provided such content or that are liable for it, to any claims for compensation, damages or reimbursement. Users agree to hold the Owner harmless from and against any claim asserted and/or damage suffered due to content they provided to or provided through this Website.
+
+Access to external resources
+Through this Website Users may have access to external resources provided by third parties. Users acknowledge and accept that the Owner has no control over such resources and is therefore not responsible for their content and availability. Conditions applicable to any resources provided by third parties, including those applicable to any possible grant of rights in content, result from each such third parties’ terms and conditions or, in the absence of those, applicable statutory law.
+
+Acceptable use
+This Website and the Service may only be used within the scope of what they are provided for, under these Terms and applicable law. Users are solely responsible for making sure that their use of this Website and/or the Service violates no applicable law, regulations or third-party rights. Therefore, the Owner reserves the right to take any appropriate measure to protect its legitimate interests including by denying Users access to this Website or the Service, terminating contracts, reporting any misconduct performed through this Website or the Service to the competent authorities – such as judicial or administrative authorities - whenever Users engage or are suspected to engage in any of the following activities:
+violate laws, regulations and/or these Terms;
+infringe any third-party rights;
+considerably impair the Owner’s legitimate interests;
+offend the Owner or any third party.
+
+Liability and indemnification
+Brokering
+This Website helps Users to find Products offered by Sellers that best meet their needs. To this end, this Website selects best matching Sellers and introduces them to Users. The Owner benefits from its brokering activity only if such activity results in a concluded contract or transaction between the Users and the Sellers. Only in such cases will the Owner charge a fee according to the criteria specified on this Website. Without prejudice to its role as a mere technical intermediary as described above, the Owner may provide additional services to either party of such interaction, such as providing packaging, shipping or facilitating dispute resolution. This Website merely serves as a technical infrastructure or platform to allow Users to interact with each other. The Owner therefore is not directly involved in any such interactions between Users. These Terms only apply to the described usage of this Website as a platform. Terms, conditions and any other provision applying specifically to transactions between Buyers and Sellers are specified by each Seller.
+
+Eu users
+Limitation of liability for user activities on this website
+Users acknowledge and accept that the Owner merely provides Users with the technical infrastructure and features incorporated in this Website. The Owner does not intermediate, moderate, promote or intervene in interactions, agreements or transactions between Users and therefore bears no liability for any such interactions among Users, including the performance of any Users' obligations.
+
+Us users
+Disclaimer of warranties
+This Website is provided strictly on an “as is” and “as available” basis. Use of the Service is at Users’ own risk. To the maximum extent permitted by applicable law, the Owner expressly disclaims all conditions, representations, and warranties — whether express, implied, statutory or otherwise, including, but not limited to, any implied warranty of merchantability, fitness for a particular purpose, or non-infringement of third-party rights. No advice or information, whether oral or written, obtained by user from owner or through the Service will create any warranty not expressly stated herein. Without limiting the foregoing, the Owner, its subsidiaries, affiliates, licensors, officers, directors, agents, co-branders, partners, suppliers and employees do not warrant that the content is accurate, reliable or correct; that the Service will meet Users’ requirements; that the Service will be available at any particular time or location, uninterrupted or secure; that any defects or errors will be corrected; or that the Service is free of viruses or other harmful components. Any content downloaded or otherwise obtained through the use of the Service is downloaded at users own risk and users shall be solely responsible for any damage to Users’ computer system or mobile device or loss of data that results from such download or Users’ use of the Service. The Owner does not warrant, endorse, guarantee, or assume responsibility for any product or service advertised or offered by a third party through the Service or any hyperlinked website or service, and the Owner shall not be a party to or in any way monitor any transaction between Users and third-party providers of products or services. The Service may become inaccessible or it may not function properly with Users’ web browser, mobile device, and/or operating system. The owner cannot be held liable for any perceived or actual damages arising from Service content, operation, or use of this Service. Federal law, some states, and other jurisdictions, do not allow the exclusion and limitations of certain implied warranties. The above exclusions may not apply to Users. This Agreement gives Users specific legal rights, and Users may also have other rights which vary from state to state. The disclaimers and exclusions under this agreement shall not apply to the extent prohibited by applicable law.
+
+Limitations of liability
+To the maximum extent permitted by applicable law, in no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for
+any indirect, punitive, incidental, special, consequential or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data or other intangible losses, arising out of or relating to the use of, or inability to use, the Service; and
+any damage, loss or injury resulting from hacking, tampering or other unauthorized access or use of the Service or User account or the information contained therein;
+any errors, mistakes, or inaccuracies of content;
+personal injury or property damage, of any nature whatsoever, resulting from User access to or use of the Service;
+any unauthorized access to or use of the Owner’s secure servers and/or any and all personal information stored therein;
+any interruption or cessation of transmission to or from the Service;
+any bugs, viruses, trojan horses, or the like that may be transmitted to or through the Service;
+any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the Service; and/or
+the defamatory, offensive, or illegal conduct of any User or third party. In no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for any claims, proceedings, liabilities, obligations, damages, losses or costs in an amount exceeding the amount paid by User to the Owner hereunder in the preceding 12 months, or the period of duration of this agreement between the Owner and User, whichever is shorter.
+This limitation of liability section shall apply to the fullest extent permitted by law in the applicable jurisdiction whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if company has been advised of the possibility of such damage. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, therefore the above limitations or exclusions may not apply to User. The terms give User specific legal rights, and User may also have other rights which vary from jurisdiction to jurisdiction. The disclaimers, exclusions, and limitations of liability under the terms shall not apply to the extent prohibited by applicable law.
+
+Indemnification
+The User agrees to defend, indemnify and hold the Owner and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees harmless from and against any and all claims or demands, damages, obligations, losses, liabilities, costs or debt, and expenses, including, but not limited to, legal fees and expenses, arising from
+User’s use of and access to the Service, including any data or content transmitted or received by User;
+User’s violation of these terms, including, but not limited to, User’s breach of any of the representations and warranties set forth in these terms;
+User’s violation of any third-party rights, including, but not limited to, any right of privacy or intellectual property rights;
+User’s violation of any statutory law, rule, or regulation;
+any content that is submitted from User’s account, including third party access with User’s unique username, password or other security measure, if applicable, including, but not limited to, misleading, false, or inaccurate information;
+User’s wilful misconduct; or
+statutory provision by User or its affiliates, officers, directors, agents, co-branders, partners, suppliers and employees to the extent allowed by applicable law.
+
+Common provisions
+No waiver
+The Owner’s failure to assert any right or provision under these Terms shall not constitute a waiver of any such right or provision. No waiver shall be considered a further or continuing waiver of such term or any other term.
+
+Service interruption
+To ensure the best possible service level, the Owner reserves the right to interrupt the Service for maintenance, system updates or any other changes, informing the Users appropriately. Within the limits of law, the Owner may also decide to suspend or terminate the Service altogether. If the Service is terminated, the Owner will cooperate with Users to enable them to withdraw Personal Data or information in accordance with applicable law. Additionally, the Service might not be available due to reasons outside the Owner’s reasonable control, such as “force majeure” (eg. labor actions, infrastructural breakdowns or blackouts etc).
+
+Service reselling
+Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of this Website and of its Service without the Owner’s express prior written permission, granted either directly or through a legitimate reselling programme.
+
+Privacy policy
+To learn more about the use of their Personal Data, Users may refer to the privacy policy of this Website.
+
+Intellectual property rights
+Without prejudice to any more specific provision of these Terms, any intellectual property rights, such as copyrights, trademark rights, patent rights and design rights related to this Website are the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties relating to intellectual property. All trademarks — nominal or figurative — and all other marks, trade names, service marks, word marks, illustrations, images, or logos appearing in connection with this Website are, and remain, the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties related to intellectual property.
+
+Changes to these terms
+The Owner reserves the right to amend or otherwise modify these Terms at any time. In such cases, the Owner will appropriately inform the User of these changes. Such changes will only affect the relationship with the User for the future. The continued use of the Service will signify the User’s acceptance of the revised Terms. If Users do not wish to be bound by the changes, they must stop using the Service. Failure to accept the revised Terms, may entitle either party to terminate the Agreement. The applicable previous version will govern the relationship prior to the User's acceptance. The User can obtain any previous version from the Owner. If required by applicable law, the Owner will specify the date by which the modified Terms will enter into force.
+
+Assignment of contract
+The Owner reserves the right to transfer, assign, dispose of by novation, or subcontract any or all rights or obligations under these Terms, taking the User’s legitimate interests into account. Provisions regarding changes of these Terms will apply accordingly. Users may not assign or transfer their rights or obligations under these Terms in any way, without the written permission of the Owner.
+
+Contacts
+All communications relating to the use of this Website must be sent using the contact information stated in this document.
+
+Severability
+Should any provision of these Terms be deemed or become invalid or unenforceable under applicable law, the invalidity or unenforceability of such provision shall not affect the validity of the remaining provisions, which shall remain in full force and effect.
+
+Us users
+Any such invalid or unenforceable provision will be interpreted, construed and reformed to the extent reasonably required to render it valid, enforceable and consistent with its original intent. These Terms constitute the entire Agreement between Users and the Owner with respect to the subject matter hereof, and supersede all other communications, including but not limited to all prior agreements, between the parties with respect to such subject matter. These Terms will be enforced to the fullest extent permitted by law.
+
+Eu users
+Should any provision of these Terms be or be deemed void, invalid or unenforceable, the parties shall do their best to find, in an amicable way, an agreement on valid and enforceable provisions thereby substituting the void, invalid or unenforceable parts. In case of failure to do so, the void, invalid or unenforceable provisions shall be replaced by the applicable statutory provisions, if so permitted or stated under the applicable law. Without prejudice to the above, the nullity, invalidity or the impossibility to enforce a particular provision of these Terms shall not nullify the entire Agreement, unless the severed provisions are essential to the Agreement, or of such importance that the parties would not have entered into the contract if they had known that the provision would not be valid, or in cases where the remaining provisions would translate into an unacceptable hardship on any of the parties.
+
+Governing law
+These Terms are governed by the law of the place where the Owner is based, as disclosed in the relevant section of this document, without regard to conflict of laws principles.
+
+Exception for european consumers
+However, regardless of the above, if the User qualifies as a European Consumer and has their habitual residence in a country where the law provides for a higher consumer protection standard, such higher standards shall prevail.
+
+Venue of jurisdiction
+The exclusive competence to decide on any controversy resulting from or connected to these Terms lies with the courts of the place where the Owner is based, as displayed in the relevant section of this document.
+
+Exception for european consumers
+The above does not apply to any Users that qualify as European Consumers, nor to Consumers based in Switzerland, Norway or Iceland.
+
+
+Legal notice
+Legal Considerations, Risks and Disclaimer
+You may lose all monies that you spend purchasing MODEX tokens. In the event that you purchase tokens, your purchase cannot be refunded or exchanged.
+
+There is no guarantee that the utility of the MODEX tokens or the project described in this white paper will be delivered.
+
+You are waiving your rights by agreeing to these terms and conditions and participating in the MODEX (Gibraltar) Limited token sale. By participating in the MODEX (Gibraltar) Limited token sale, you are agreeing to have no recourse, claim, action, judgment, or remedy against MODEX (Gibraltar) Limited if the utility of the MODEX tokens or if the project described in this white paper is not delivered or realized.
+
+If you are uncertain about anything in this white paper or you are not prepared to lose all monies that you spend purchasing MODEX tokens, we strongly urge you not to purchase any MODEX tokens.
+
+We recommend you consult legal, financial, tax, and other professional advisors or experts for further guidance before participating in the MODEX (Gibraltar) Limited token sale outlined in this white paper. You are strongly advised to take independent legal advice regarding the legality in your jurisdiction of your participation in the token sale.
+
+MODEX tokens are not shares or securities of any type. They do not entitle you to any ownership or other interest in MODEX (Gibraltar) Limited. They are merely a means by which you may be able to utilize certain services on a platform that is being further developed. There is no guarantee that the platform will actually be developed.
+
+Please read the entirety of this "Legal Considerations, Risks and Disclaimer" section carefully.
+
+You must read the following “Legal Considerations, Risks and Disclaimer” section in full before: (i) making use of this White Paper and any and all information available on the website(s) of Modex (Gibraltar) Limited (the “Company”) located at modex.tech (the “Website”); and (ii) participating in the Company’s token sale outlined in this White Paper (the “Token Sale”).This “Legal Considerations, Risks and Disclaimer” section applies to this White Paper and any and all information available on the Website. The contents of this “Legal Considerations, Risks and Disclaimer” section outlines the terms and conditions applicable to you in connection with (i) your use of this White Paper and of any and all information available on the Website; and (ii) your participation in the Token Sale, in each case in addition to any other terms and conditions that we may publish from time to time relating to this White Paper, the Website and the Token Sale (such terms hereinafter referred to as the “Terms”). This “Legal Considerations, Risks and Disclaimer” section may be updated from time to time and will be published as part of the latest version of the White Paper which shall be available on the Website. You shall be obliged to read in full the latest available version of the White Paper available on the Website prior to participating in the Token Sale.
+
+The information set forth in this “Legal Considerations, Risks and Disclaimer” section may not be exhaustive and does not imply any elements of a contractual relationship. While we make every reasonable effort to ensure that all information: (i) in this White Paper; and (ii) available on the Website (all the information in the White Paper and all information available on the Website hereinafter referred to as the “Available Information”) is accurate and up to date, such material in no way constitutes professional advice. Individuals intending to participate in the Token Sale should seek independent professional advice prior to acting on any of the Available Information.
+
+Legal considerations
+The Company has used reasonable endeavours to approach the Token Sale in a responsible and sensible manner. Given the legal uncertainty of distributed ledger technologies, businesses and activities as well as cryptocurrencies and cryptocurrency-related businesses and activities in a number of jurisdictions, the Company has spent time and resources to consider its business approach and where it proposes to operate now and in the future. The Company has worked with Hassans International Law Firm in respect of Gibraltar law matters. The Company has NOT taken any other legal advice in any other jurisdiction. As such, it is possible that the Company’s Modex tokens described in this White Paper and which are the subject of the Token Sale (the “Tokens”) may comprise a security in your jurisdiction or the offer for sale by the Company of the Tokens in your jurisdiction may be a regulated or prohibited activity and in either of these cases the Company may be liable for the same. The Company accepts no responsibility or liability to you in these or any other circumstances. You are strongly advised to take independent legal advice in respect of the legality in your jurisdiction of your participation in the Token Sale and purchase of Tokens.
+
+In February 2022, Gibraltar Financial Services Commission (GFSC) has approved the registration of Modex (Gibraltar) Limited under the Proceeds of Crime 2015 (Relevant Financial Business) (Registration) Regulations 2021. The Company will use reasonable commercial endeavours to comply with all Gibraltar regulations and, to the extent reasonably practicable with the regulations of such other jurisdictions that it is able to. However, due to the current uncertain state of regulation relating to distributed ledger technology and token sales across the world, the Company cannot guarantee the legality of the Token Sale or the future Modex Network (as such term is defined in the Modex Whitepaper) to be developed as envisaged by the Available Information or the Company’s ability to develop, structure and licence any future Token functionality in every jurisdiction but the Company will use reasonable commercial endeavours to be responsive and compliant in the face of any regulatory inquiry.
+
+The Tokens are functional utility tokens designed for use only on the Modex Network that is being further developed. The Tokens are not securities. In the event that you purchase Tokens, your purchase cannot be refunded or exchanged. The Company does not recommend purchasing Tokens for speculative investment purposes. Tokens do not entitle you to any equity, governance, voting or similar right or entitlement in the Company or in any of its affiliated companies. Tokens are sold as digital products, similar to downloadable software, digital music and the like. The Company does not recommend that you purchase Tokens unless you have prior experience with cryptographic tokens, blockchain-based software and distributed ledger technology and unless you have taken independent professional advice.
+
+The Company may choose to make the Available Information in a number of different languages. In the event of any conflict between the English version of the Available Information and any foreign language version, the English language version will prevail.
+‍
+REGIONAL RESTRICTIONS
+Citizens, nationals, residents (tax or otherwise) and/or green card holders of each of: (i) the United States of America; (ii) the People’s Republic of China; (iii) South Korea; (iv) Vietnam; and (v) any other jurisdiction which prohibits or requires any supervision, oversight, licensing, regulatory compliance and/or approval from any regulatory (or similar) authority or body or from any monetary or securities body or authority for: (a) the possession, dissemination or communication of the Available Information; and/or (b) the participation in the Token Sale or the purchase of Tokens and/or the offer for sale of the Tokens or any similar activity or product, (collectively the “Restricted Jurisdictions”) or any other Restricted Persons are not permitted to participate in the Token Sale. The term “Restricted Persons” refers to any firm, company, partnership, trust, corporation, entity, government, state or agency of a state or any other incorporated or unincorporated body or association, association or partnership (whether or not having separate legal personality) that is established and/or lawfully existing under the laws of a Restricted Jurisdiction (including in the case of United States of America, under the federal laws of the United States of America or under the laws of any of its States).
+
+The Tokens are not intended to constitute, and shall not constitute, equities or securities (of any nature whatsoever) in any jurisdiction. This White Paper does not constitute a prospectus or offer document of any sort and the Available Information is not intended to constitute an offer of securities or a solicitation for investment in securities in any jurisdiction. The Company does not provide any opinion or any advice to purchase, sell, or otherwise transact with Tokens and the presentation, publication or communication of all or any part of the Available Information shall not form the basis of, or be relied upon in connection with, any contract or investment decision.
+‍
+NO ADVICE
+No part of the Available Information should be considered to be business, legal, financial or tax advice regarding the Company, the Tokens, the Token Sale or any of the matters to which all or any part of the Available Information relates. You should consult your own legal, financial, tax or other professional advisor regarding the Available Information. You should be aware that you may be required to bear the financial risk of any purchase of Tokens for an indefinite period of time.
+‍
+LIMITATION OF LIABILITY
+In no event shall the Company or any of its respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, joint ventures, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (hereinafter the “Affiliates”) be responsible or accountable or liable in any way whatsoever to any purchaser of Tokens for any loss of profits or otherwise or for any lost savings or for any incidental direct indirect special or consequential damages in each case arising out of or from or in connection with:
+‍
+- any failure by the Company or any of its Affiliates to deliver or realise all or any part of the project or the platform or the membership network or the Token features described in or envisaged by the Available Information;
+- your use or inability to use at any time the services or the products or the platform or the membership network or Tokens offered by the Company;
+- the breach of any of these Terms by the Company or by the Affiliates or by you or by any third party;
+- any security risk or security breach or security threat or security attack or any theft or loss of data including but not limited to hacker attacks, losses of password, losses of private keys, or anything similar;
+- mistakes or errors in code, text, or images involved in the Token Sale or in any of the Available Information; or
+- any information contained in or omitted from the Available Information;
+- any expectation promise representation or warranty arising (or purportedly arising) from the Available Information;
+- the volatility in pricing of Tokens in any countries and/or on any exchange or market (regulated, unregulated, primary, secondary or otherwise);
+- the purchase use sale resale redemption or otherwise of the Tokens; or
+- your failure to properly secure any private key to a wallet containing Tokens,
+‍
+(collectively, the “Excluded Liability Matters”).
+
+The Available Information (including the Website and the White Paper) and the Tokens are provided on an “as is” basis and without any representations or warranties of any kind, either express or implied. You assume all responsibility and risk with respect to your use of the Available Information and purchasing of any amount of Tokens and their use. If applicable law does not allow all or any part of the above limitation of liability to apply to you, the limitations will apply to you only to the maximum extent permitted by applicable law.
+
+To the maximum extent permitted by applicable law, you hereby irrevocably and unconditionally waive: (i) all and any claims (whether actual or contingent and whether as an employee, office holder, trustee, agent, principal or in any other capacity whatsoever or howsoever arising) including, without limitation, claims for or relating to the Excluded Liability Matters, any payment or repayment of monies, indemnity or otherwise that you may have against the Company or against any Affiliate; and (ii) release and discharge the Company and all of the Affiliates from any and all liability (of whatsoever nature or howsoever arising) it or they may have to you. If for any reason you hereafter bring or commence any action or legal proceeding in respect of any claim purported to be released and discharged pursuant to this paragraph or these Terms, or otherwise attempt to pursue any such claim against the Company or any Affiliates then you hereby irrevocably and unconditionally undertake to indemnify, and keep indemnified the Company and all Affiliates fully on demand from and against:
+‍
+- all liabilities or losses suffered by the Company or any of its Affiliates; and
+- all reasonable costs, charges and reasonable expenses (including without limitation reasonable legal costs and expenses) reasonably and properly incurred by the Company or any of its Affiliates,
+‍
+in each case by reason of or in connection with the bringing or commencement of such action or pursuit of such claim by you.
+
+If any provision or part-provision of this “Legal Considerations, Risks and Disclaimer” section is or becomes invalid, illegal or unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid, legal and enforceable. If such modification is not possible, the relevant provision or part-provision shall be deemed deleted. Any modification to or deletion of a provision or part-provision under this “Legal Considerations, Risks and Disclaimer” section shall not affect the validity and enforceability of the rest of this “Legal Considerations, Risks and Disclaimer” section.
+‍
+NO REPRESENTATION & WARRANTIES
+Notwithstanding any other provision of these Terms or any statement made expressly or impliedly in the Available Information, the Company does not make or purport to make, and hereby disclaims, any representation warranty undertaking or covenant in any form whatsoever to any entity or person, including any representation warranty undertaking or covenant in relation to the truth, accuracy and completeness of any of the information set out in the Available Information.
+‍
+REPRESENTATION & WARRANTIES BY YOU
+By howsoever accessing and/or accepting possession or communication of all or any part of the Available Information, you represent and warrant (and shall be deemed to represent and warrant) to the Company on the date of such access or on the latest date on which you retain possession of all or any part of the Available Information as follows:
+‍
+- you are over 18 (eighteen) years of age;
+- you agree and acknowledge that the Tokens do not constitute shares or equities or securities or financial instruments or investments in any form in any jurisdiction;
+- you agree and acknowledge that the Available Information (including the White Paper and the Website) does not constitute a prospectus or offer document of any sort and is not intended to constitute an offer of securities in any jurisdiction or a solicitation for investment in securities and you are not bound to enter into any contract or binding legal commitment and no cryptocurrency or other form of payment is to be accepted on the basis of the Available Information;
+- you agree and acknowledge that no regulatory authority has examined or approved of the Available Information, no action has been or will be taken under the laws, regulatory requirements or rules of any jurisdiction and the publication, distribution or dissemination of all or any part of the Available Information to you does not imply that the applicable laws, regulatory requirements or rules have been complied with;
+- you agree and acknowledge that the Available Information, the undertaking and/or the completion of the Token Sale, or future trading of the Tokens on any exchange or market (regulated, unregulated, primary, secondary or otherwise), shall not be construed, interpreted or deemed by you as an indication of the merits of the Company, the Tokens, the Token Sale or the Available Information;
+- the distribution or dissemination of the Available Information any part thereof or any copy thereof, or acceptance of the same by you, is not prohibited or restricted by the applicable laws, regulations or rules in your jurisdiction, and where any restrictions in relation to possession are applicable, you have observed and complied with all such restrictions at your own expense and without liability to the Company;
+- you agree and acknowledge that in the case where you wish to purchase any Tokens, the Tokens are not to be construed, interpreted, classified or treated as:
+- any kind of currency or commodity;
+- debentures, stocks or shares issued by any person or entity (whether the Company or otherwise);
+- rights, options or derivatives in respect of such debentures, stocks or shares;
+- rights under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss;
+- units in a collective investment scheme;
+- units in a business trust;
+- derivatives of units in a business trust;
+- any other security or class of securities; or
+- any type of investment (as such term is defined by the Financial Services Act 2019 of Gibraltar (as amended or re-enacted from time to time) or as such term might be construed under similar legislation in any other part of the world);
+- you are fully aware of and understand that you are not eligible to purchase any Tokens or access the Available Information if you are a citizen, national, resident (tax or otherwise) and/or green card holder of a Restricted Jurisdiction or if you are a Restricted Person;
+- you have a basic degree of understanding of the operation, functionality, usage, storage, transmission mechanisms and other material characteristics of cryptocurrencies, blockchain-based software systems, cryptocurrency wallets or other related token storage mechanisms, blockchain technology and smart contract technology;
+- you are fully aware and understand that in the case where you wish to purchase any Tokens, there are risks associated with: (A) the Company and its business and operations; (B) the Tokens; (C) the Token Sale; and (D) relying or acting on all or any part of the Available Information;
+- you agree and acknowledge that the Company is not liable for any direct indirect special incidental consequential or other losses of any kind in tort contract or otherwise (including but not limited to loss of revenue income or profits or loss of use or data or loss of reputation or loss of any economic or other opportunity of whatsoever nature or howsoever arising) arising out of or in connection with any acceptance of or reliance on the Available Information or any part thereof by you; and
+- all of the above representations and warranties are true, complete, accurate and not misleading from the time of your last access to and/or possession of (as the case may be) the Available Information.
+‍
+CAUTIONARY NOTE ON FORWARD-LOOKING STATEMENTS
+All statements contained in the Available Information, statements made in any press releases or in any place accessible by the public and oral statements that may be made by the Company or any of its Affiliates (as the case may be), that are not statements of historical fact, constitute “forward looking statements”. Some of these statements can be identified by forward-looking terms such as “aim”, “target”, “anticipate”, “believe”, “could”, “estimate”, “expect”, “if”, “intend”, “may”, “plan”, “possible”, “probable”, “project”, “should”, “would”, “will” or other similar terms. However, these terms are not the exclusive means of identifying forward-looking statements. All statements regarding the Company’s financial position, business strategies, plans and prospects and the future prospects of the industry which the Company is in are forward-looking statements. These forward-looking statements, including but not limited to statements as to the Company’s revenue profitability and growth, expected revenue profitability and growth, prospects, future plans, other expected industry trends and other matters discussed in the Available Information regarding the Company are matters that are not historic facts, but only estimations and predictions. The Company makes no representation or warranty on having made any predictions or estimates or expectations on the basis of any formula, any mathematical or scientific modelling or forecast, or having made any due and proper enquiries or having undertaken any independent research or studies or otherwise. These forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause the actual future results, performance or achievements of the Company to be materially different from any future results, performance or achievements expected, expressed or implied by such forward-looking statements. These factors include, amongst others:
+‍
+- changes in legal political social economic and stock or cryptocurrency market conditions and the regulatory environment in the countries in which the Company conducts its Token Sale or in which the Modex Network operates;
+- the risk that the Company may be unable or execute or implement its business strategies and future plans;
+- changes in interest rates and exchange rates of fiat currencies and cryptocurrencies;
+- changes in the anticipated growth strategies and expected internal growth of the Company;
+- changes in the availability and fees payable to the Company in connection with its business and operations;
+- changes in the availability and salaries of employees who are required by the Company to operate;
+- changes in preferences of customers of the Company;
+- changes in competitive conditions under which the Company operates, and the ability of the Company to compete under such conditions;
+- changes in the future capital needs of the Company and the availability of financing and capital to fund such needs;
+- war or acts of international or domestic terrorism;
+- occurrences of catastrophic events, natural disasters and acts of God that affect the operations of the Company;
+- other factors beyond the control of the Company; and
+- any risk and uncertainties associated with the Company and its business and operations, the Tokens, the Token Sale and reliance on all or any part of the Available Information.
+‍
+All forward-looking statements made by or attributable to the Company or any of its Affiliates are expressly qualified in their entirety by such factors. Given that risks and uncertainties that may cause the actual future results, performance or achievements of the Company to be materially different from that expected, expressed or implied by the forward-looking statements in the Available Information, undue reliance must not be placed on these statements.
+
+These forward-looking statements are applicable only as of the later of the date of publication of the White Paper and the latest date that the Website has been updated. Neither the Company nor or any of its Affiliates nor any other person represents, warrants and/or undertakes that the actual future results, performance or achievements of the Company will be as discussed in those forward-looking statements. The actual results, performance or achievements of the Company may differ materially from those anticipated in these forward-looking statements.
+
+Nothing contained in the Available Information is or may be relied upon as a promise, representation or undertaking as to the future performance or policies of the Company. Further, the Company disclaims any responsibility to update any of those forward-looking statements or publicly announce any revisions to those forward-looking statements to reflect future developments, events or circumstances, even if new information becomes available or other events occur in the future.
+‍
+RISK FACTORS
+You should carefully consider and evaluate each of the following risk factors and all other information contained in these Terms before deciding to participate in the Token Sale. To the best of the Company’s knowledge and belief, all risk factors which are material to you in making an informed judgment to participate in the Token Sale have been set out below. If any of the following considerations, uncertainties or material risks develops into actual events, the business, financial position and/or results of operations of the Company and the maintenance and level of usage of the Tokens could be materially and adversely affected. In such cases, the trading price of Tokens could decline due to any of these considerations, uncertainties or material risks, and you may lose all or part of your Tokens or the economic value thereof.
+‍
+RISKS RELATING TO PARTICIPATION IN THE TOKEN SALE
+The Token Sale may not result in an active or liquid market for the Tokens.
+
+In the event that the Company ever decides to seek the approval for availability of the Tokens for trading on any cryptocurrency exchange, there is no assurance that such approval will be obtained. Furthermore, even if such approval is granted by a cryptocurrency exchange, there is no assurance that an active or liquid trading market for the Tokens will develop, or if developed, will be sustained after the Tokens have been made available for trading on such market. There is also no assurance that the market price of the Tokens will not decline below the original or issue purchase price/Token Private Sale Price (the “Purchase Price”). The Purchase Price may not be indicative of the market price of the Tokens after they have been made available for trading on a market.
+
+A Token is not a currency issued by any central bank or national, supra-national or quasi-national organisation, nor is it backed by any hard assets or other credit nor is it a commodity in the traditional sense of that word. The Company is not responsible for, nor does it pursue, the circulation and trading of Tokens on any market. Trading of Tokens will merely depend on the consensus on its value between the relevant market participants. No one is obliged to purchase any Token from any holder of the Token, including the purchasers, nor does anyone guarantee the liquidity or market price of Tokens to any extent at any time. Furthermore, Tokens may not be resold to purchasers who are citizens, nationals, residents (tax or otherwise) and/or green card holders of Restricted Jurisdictions or to Restricted Persons or to purchasers in any other jurisdiction where the purchase of Tokens may be in violation of applicable laws. Accordingly, the Company cannot ensure that there will be any demand or market for Tokens, or that the Purchase Price is indicative of the market price of Tokens after they have been made available for trading on any cryptocurrency exchange or market.
+
+Future sales or issuance of the Tokens could materially and adversely affect the market price of Tokens.
+
+Any future sale of the Tokens would increase the supply of Tokens in the market and this may result in a downward price pressure on the Token. The sale or distribution of a significant number of Tokens outside of the Token Sale (including but not limited to transfer of Tokens to persons other than purchasers for purposes of community initiatives, business development, academic research, education and market expansion and issuance of Tokens as a reward to users of the Modex Network that is being further developed or otherwise), or the perception that such further sales may occur, could adversely affect the trading price of the Tokens.
+
+Negative publicity may materially and adversely affect the price of the Tokens.
+
+Negative publicity involving the Company, the Company’s that is being further developed, the Tokens or any of the key personnel of the Company and/or regulation of distributed ledger technologies, cryptocurrencies and/or crowdsales of tokens in any jurisdiction, may materially and adversely affect the market perception or market price of the Tokens, whether or not it is justified.
+
+There is no assurance of any success of the Company’s Token Sale or business platform that is being further developed as envisaged by the Available Information.
+
+The value of, and demand for, the Tokens hinges heavily on the performance of the Company’s Token Sale and Modex Network that is being further developed and the continuous active engagement of its users and success of its contemplated business lines. There is no assurance that the Company’s Token Sale will be successful or that the Modex Network that is being further developed will gain or continue to gain traction. While the Company has made every effort to provide a realistic estimate, there is also no assurance that the cryptocurrencies raised in the Token Sale will be sufficient for the development of the Modex Network. For the foregoing or any other reason, the development of the Modex Network and launch of the anticipated Token functionality may not be completed and there is no assurance that it will be launched at all. As such, distributed Tokens may hold little or no worth or value and this would impact any trading price and/or use of the Tokens.
+
+The trading price of the Tokens may fluctuate following the Token Sale.
+
+The prices of cryptographic tokens in general tend to be relatively volatile, and can fluctuate significantly over short periods of time. The demand for, and the corresponding market price of, the Tokens may fluctuate significantly and rapidly in response to, among others, the following factors, some of which are beyond the control of the Company:
+‍
+- new technical innovations;
+- analysts’ speculations, recommendations, perceptions or estimates of the Token’s market price or the Company’s financial and business performance;
+- changes in market valuations and token prices of entities with businesses similar to that of the Company that may be listed on the same cryptocurrency exchanges or markets as the Tokens;
+- announcements by the Company of significant events, for example partnerships, sponsorships or new product developments;
+- fluctuations in market prices and trading volume of cryptocurrencies on cryptocurrency exchanges or markets;
+- additions or departures of key personnel of the Company;
+- success or failure of the Company’s management in implementing business and growth strategies; and/or
+- changes in conditions affecting the blockchain or financial technology industry, the general economic conditions or market sentiments, or other events or factors.
+‍
+RISKS RELATING TO THE COMPANY
+The Modex Network continues to be developed.
+‍
+Any events or circumstances which adversely affect the Company or any of its Affiliates may have a corresponding adverse effect on the Modex Network that is being further developed, including but not limited to the development, structuring the Modex Network. Such adverse effects would correspondingly have an impact on the utility, liquidity, and the trading price of the Tokens.
+
+The Company or its Affiliates may be materially and adversely affected if it fails to effectively manage its operations as its business develops and evolves, which would have a direct impact on its ability to develop, maintain or operate the Modex Network and/or develop, structure and/or licence any Token functionality.
+
+The financial technology and cryptocurrency industries in which the Company competes have grown rapidly over the past few years and continue to evolve in response to new technological advances, changing business models, shifting regulations and other factors. As a result of this constantly changing environment, the Company may face operational difficulties in adjusting to the changes, and the sustainability of the Modex Network will depend on the ability of the Company or its Affiliates to manage its operations, ensure that it hires qualified and competent employees, and provides proper training for its personnel. As the Modex Network develops, the Company and/or its Affiliates must also expand and adapt its operational infrastructure. The Modex Network will in part rely on its blockchain-based software systems, cryptocurrency wallets or other related token storage mechanisms, blockchain technology and smart contract technology. All of these systems, tools, and skill sets represent complex, costly, and rapidly changing technical infrastructure. In order to demonstrate continued ability to effectively manage technical support infrastructure for the Modex Network that is being further developed and the future functionality of the Tokens, the Company and/or its Affiliates will need to continue to upgrade and improve its data systems and other operational systems, procedures, and controls. These upgrades and improvements will require a dedication of resources and are likely to be complex and increasingly rely on hosted computer services from third parties that the Company and/or its Affiliates do not or will not control. If the Company and/or its Affiliates are unable to adapt their systems and organisation in a timely, efficient, and cost-effective manner to accommodate changing circumstances, its business, financial condition and/or results of operations may be adversely affected. If the third parties whom the Company and/or its Affiliates rely on are subject to a security breach or otherwise suffer disruptions that impact the services the Company and/or its Affiliates use, the integrity and availability of its internal information could be compromised, which may consequently cause the loss of confidential or proprietary information and/or economic loss. The loss of financial, labour or other resources, and any other adverse effect on the Company and/or its Affiliates, financial condition and/or operations, would have a direct adverse effect on the ability of the Company and/or its Affiliates to develop maintain or operate the Modex Network and/or to develop, structure and/or license the anticipated Token functionality. Any adverse effects affecting the Modex Network or technology are likely to also adversely impact the utility, liquidity, and trading price of the Tokens.
+
+The Company may experience system failures, unplanned interruptions in its network or services, hardware or software defects, security breaches or other causes that could adversely affect the Company’s infrastructure network, and/or the Modex Network that is being further developed.
+
+The Company and/or its Affiliates are not able to anticipate when there would be occurrences of hacks, cyber-attacks, distributed denials of service or errors, vulnerabilities or defects in: the Modex Network that is being further developed, in the smart contracts on which the Company and/or its Affiliates or the Modex Network relies, or on the Ethereum or any other blockchain. Such events may include, for example, flaws in programming or source code leading to exploitation or abuse thereof. The Company and/or its Affiliates may not be able to detect such hacks, cyber-attacks, distributed denials of service errors vulnerabilities or defects in a timely manner, and may not have sufficient resources to efficiently cope with multiple service incidents happening simultaneously or in rapid succession.
+
+The network or services of the Company and/or its Affiliates, which would include the Modex Network that is being further developed and, if successfully structured, developed, licensed and launched, the Token functionality, could be disrupted by numerous events, including natural disasters, equipment breakdown, network connectivity downtime, power losses, or even intentional disruptions of its services, such as disruptions caused by software viruses or attacks by unauthorised users, some of which are beyond the control of the Company and/or its Affiliates. There can be no assurance that cyber-attacks, such as distributed denials of service, will not be attempted in the future or that the security measures of the Company and/or its Affiliates will be effective. The Company and/or its Affiliates may be prone to attacks on its infrastructure intended to steal information about its technology, financial data or user information or take other actions that would be damaging to the Company and/or holders of the Tokens. Any significant breach of the security measures of the Company and/or its Affiliates or other disruptions resulting in a compromise of the usability, stability, and security of the Modex Network that is being further developed may adversely affect the utility, liquidity and/or trading price of the Tokens.
+
+The Company and/or its Affiliates may in the future be dependent in part on the location and data centre facilities of third parties.
+
+The future infrastructure network of the Company and/or its Affiliates may be established in whole or in part through servers which they own and/or houses at the location facilities of third parties, and/or servers that it rents at data centre facilities of third parties. If the Company and/or its Affiliates are unable to renew their data facility leases on commercially reasonable terms or at all, the Company and/or its Affiliates may be required to transfer its servers to a new data centre facility, and may incur significant costs and possible service interruption in connection with the relocation. These facilities are also vulnerable to damage or interruption from, among others, natural disasters, arson, terrorist attacks, power losses, and telecommunication failures.
+
+Additionally, the third-party providers of such facilities may suffer a breach of security as a result of third-party action, employee error, malfeasance or otherwise, and a third party may obtain unauthorised access to the data in such servers. The Company and/or its Affiliates and the providers of such facilities may be unable to anticipate these techniques or to implement adequate preventive measures.
+
+General global market and economic conditions may have an adverse impact on the operating performance, results of operations and/or cash flows of the Company and/or its Affiliates.
+
+The Company and/or its Affiliates could continue to be affected by general global economic and market conditions. Challenging economic conditions worldwide have from time to time, contributed, and may continue to contribute, to slowdowns in the information technology industry at large. Weakness in the economy could have a negative effect on the Company and/or its Affiliates’ business, operations and financial condition, including decreases in revenue and operating cash flows, and inability to attract future equity and/or debt financing on commercially reasonable terms. Additionally, in a down-cycle economic environment, the Company and/or its Affiliates may experience the negative effects of a slowdown in trading and usage of the Modex Network that is being further developed and may delay or cancel the development, structuring, licensing and/or launch of the anticipated Token functionality.
+
+Suppliers on which the Company and/or its Affiliates rely for servers, bandwidth, location and other services could also be negatively impacted by economic conditions that, in turn, could have a negative impact on the operations or expenses of the Company and/or its Affiliates. There can be no assurance, therefore, that current economic conditions or worsening economic conditions or a prolonged or recurring recession will not have a significant, adverse impact on the Company’s business, financial condition and results of operations, and hence, the Modex Network that is being further developed and/or the ability to develop, structure, license and/or launch any Token functionality. Any such circumstances would then correspondingly negatively impact the utility, liquidity, and/or trading price of the Tokens.
+
+The Company and/or its Affiliates or the Tokens may be affected by newly implemented regulations.
+
+Distributed ledger technologies, businesses and activities as well as cryptocurrencies and cryptocurrency-related businesses and activities are generally unregulated worldwide, but numerous regulatory authorities across jurisdictions have been outspoken about considering the implementation of regulatory regimes which govern distributed ledger technologies, businesses and activities as well as cryptocurrencies and cryptocurrency-related businesses and activities. The Company and/or its Affiliates or the Tokens may be affected by newly implemented regulations relating to distributed ledger technologies, businesses and activities as well as cryptocurrencies and cryptocurrency-related businesses and activities, including having to take measures to comply with such regulations, or having to deal with queries, notices, requests or enforcement actions by regulatory authorities, which may come at a substantial cost and may also require substantial modifications to the Modex Network that is being further developed and/or the anticipated Token functionality. This may impact the appeal or practicality or functionality of the Modex Network that is being further developed and/or the anticipated Token functionality for users and result in decreased usage of and demand for the Modex Network and the Tokens. Further, should the costs (financial or otherwise) of complying with such newly implemented regulations exceed a certain threshold, maintaining the Modex Network that is being further developed and/or developing, structuring, licensing and/or launching the Token functionality may no longer be commercially viable, and the Company and/or its Affiliates may opt to discontinue the Modex Network that is being further developed and/or the anticipated Token functionality, and/or the Tokens. Further, it is difficult to predict how or whether governments or regulatory authorities may implement any changes to laws and regulations affecting distributed ledger technology and its applications, including the Modex Network that is being further developed and/or the anticipated Token functionality, and/or the Tokens.
+
+The Company and/or its Affiliates may also have to cease operations in a jurisdiction that makes it illegal to operate in such jurisdiction, or make it commercially unviable or undesirable to obtain the necessary regulatory approval(s) to operate in such jurisdiction. In scenarios such as the foregoing, the utility, liquidity, and/or trading price of Tokens will be adversely affected and/or Tokens may cease to be traded.
+
+There may be unanticipated risks arising from the Tokens.
+
+Cryptographic tokens such as the Tokens are a relatively new and dynamic technology. In addition to the risks included in the above discussion of risk factors, there are other risks associated with your purchase, holding, and use of the Tokens, including those that the Company and/or its Affiliates cannot anticipate. Such risks may further appear as unanticipated variations or combinations of the risks discussed above.
+‍
+DISCLAIMER
+The presentation of the Available Information is solely for informational purposes. Anyone interested in purchasing Tokens and participating in the Token Sale should consider the various risks prior to making any kind of decision in respect of the Token Sale. The Available Information does not comprise any advice by the Company or by any of its Affiliates, or any recommendation to any recipient of the Available Information, by the virtue of any participation in the Token Sale or otherwise. The Available Information does not necessarily identify, or claim to identify, all the risk factors connected with the Company, the Modex Network that is being further developed, the Tokens, the Token Sale, any future Token functionality or the Available Information. All the participants must make their own independent evaluation, after making such investigations as they consider essential, of the merits of participating in the Token Sale and after taking their own independent professional advice. Any participant in the Token Sale should check with and rely upon their own investment, accounting, legal and tax representatives and consultants in respect of such matters concerning the Company, the Modex Network that is being further developed, the Tokens, the Token Sale, any future Token functionality and the Available Information and to assess separately the financial risks, consequences and appropriateness of the purchase of Tokens, or if in any doubt about the facts set out in the Available Information. A purchase of Tokens comprises considerable risk and might involve extraordinary risks that may lead to a loss of all or a significant portion of monies or monetary value utilised to acquire Tokens. Participants in the Token Sale are urged to completely understand, be aware of and accept the characteristics of the Company, the Modex Network that is being further developed, the Tokens, the Token Sale, any future Token functionality and the Available Information. If you are not prepared to accept any or all of these Terms or the risks set out in these Terms then YOU ARE URGED NOT TO PARTICIPATE IN THE TOKEN SALE. No guarantee or assurance is given by the Company or by any of its Affiliates that the Company’s proposals, objectives and/or outcomes set out in the Available Information will be achieved in whole or in part. You are urged to consider whether participation in the Token Sale is suitable for you having regard to your personal and financial circumstances and your financial resources.
+‍
+RESTRICTIONS ON DISTRIBUTION AND DISSEMINATION OF
+THE AVAILABLE INFORMATION
+The distribution or dissemination howsoever of all or any part of the Available Information may be prohibited or restricted by the laws, regulatory requirements and rules of certain jurisdictions. In the case where any such restriction applies, you are responsible for informing yourself in respect of the same and for observing any such restrictions which are applicable to your possession and/or dissemination of all or any part of the Available Information at your own expense and without liability to the Company and/or its Affiliates.
+
+Persons to whom a copy of all or any part of the Available Information has been distributed or disseminated, provided access to or who otherwise have all or any part of the Available Information in their possession shall not circulate it to any other persons, reproduce or otherwise distribute any information contained herein for any purpose whatsoever nor permit or cause the same to occur.
+‍‍
+NO OFFER OF SECURITIES OR REGISTRATION
+This White Paper does not constitute a prospectus or offer document of any sort and is not intended to constitute an offer of securities or a solicitation for investment in securities in any jurisdiction. No person is bound to enter into any contract or binding legal commitment and no cryptocurrency or other form of payment is to be accepted on the basis of all or any part of the Available Information. Any agreement in relation to any sale and purchase of Tokens is to be governed by the terms and conditions of such agreement and no other document. In the event of any inconsistencies between the terms and conditions of that agreement and the Available Information, those terms and conditions shall prevail.
+
+You are not eligible to purchase any Tokens in the Token Sale if you are a citizen, resident (tax or otherwise) or green card holder of a Restricted Jurisdiction or you are a Restricted Person. No regulatory authority has examined or approved of any of the Available Information. No such action has been or will be taken under the laws, regulatory requirements or rules of any jurisdiction. The publication, distribution or dissemination of the Available Information does not imply that the applicable laws, regulatory requirements or rules have been complied with.
+
+
+Terms of users
+Legal information
+The website www.eurotechtrading.com offers a service of deposit and consultation of advertisements on Internet for the individuals and the professionals. Access to the website, its consultation and use are subject to the unconditional acceptance of these Terms of Use. The website is published by Eurotech Xchange Est. For any questions about the company, you can send us your questions by email.
+
+Terms of service
+Definitions
+1. Object
+2. Approval
+3. Use of the website
+4. Moderation of ads
+5. Liability and guarantees
+6. Intellectual property
+7. Modification of the Website
+8. Miscellaneous
+Definitions
+Each of the terms mentioned below will have, in these Terms of Use, the following meaning :
+
+Announcement: means all the elements and data (visual, textual, sound, photographs, drawings), deposited by an Advertiser under its editorial responsibility, in order to buy, rent or sell a property or to offer a service and posted on the Website.
+
+Advertiser: refers to any major physical person or legal person who has submitted and posted an advert via the website www.luxurypulse.com.
+
+Personal Account: means the personal space, accessible from the Website, which any Advertiser must have, and from which he can broadcast, manage, view his ads.
+
+Website: means the website accessible mainly from the URL www.luxurypulse.com and allowing Users and Advertisers to access the website www.luxurypulse.com via the internet.
+
+User: means any visitor having access to www.luxurypulse.com via the Internet.
+
+1. Object
+The Terms of Use are intended to determine the conditions of use of the Website made available to Users and Advertisers.
+The conditions of subscription by the Advertisers are fixed in the general conditions (cf Terms of Sales)
+
+2. Approval
+Any User - Any Advertiser declares by accessing and using the Website to have read these General Terms and Conditions of Use and expressly accept them without reservation and/or modification of any kind whatsoever. These Terms are therefore fully enforceable against Users and Advertisers.
+
+3. Use of the website
+3.1 Description of the Service
+3.1.1 General rules
+Any User - any Advertiser declares to be informed that he must, to access the Website, have access to the Internet. This Internet access, the cost of which is his responsibility, is subscribed with the supplier of his choice. Any User - Any Advertiser acknowledges that :
+
+• The reliability of the transmissions is uncertain because, in particular, of the heterogeneous nature of the infrastructures and networks on which they circulate and that, in particular, breakdowns or saturations can happen.
+
+• It is his responsibility to take any measure he deems appropriate to ensure the safety of his equipment and his own data, software or otherwise, including contamination by any virus and/or attempted intrusion of which he could be a victim.
+
+• All equipment connected to the Website is and remains under its exclusive responsibility. Luxury Pulse can not be held liable for any direct or indirect damage that may occur due to a connection to the Website.
+
+The Advertiser undertakes, where applicable, to respect and maintain the confidentiality of the login credentials to his Personal Account and expressly acknowledges that any connection to his Personal Ac- count, as well as any transmission of data from his Personal Account will be deemed to have been done by the Advertiser.
+
+Any loss, misuse or use of login credentials and their possible consequences are the sole responsibility of the Advertiser.
+
+The Advertiser is informed and agrees that for technical reasons, his Ad will not be broadcast instantly after being posted on the Website..
+
+The Advertiser is informed that by publishing an Advertisement on the Website, it is likely to be shared by any User and/or Advertiser on social networks.
+
+3.2 Description of the service
+3.2.1 Features available to Advertisers and Users from the Website
+Viewing all ads served Put in contact with the Advertisers The possibility of advising the Ad to a friend Report abuse Sharing an ad on social networks
+
+3.2.2 Features accessible from the Website to Advertisers identified
+Personal account access The deposit of Advertisement The management of the Ads deposited via the personal account :
+
+• Ad removal
+
+• the Advertisement modification
+
+Access and management of the personal account :
+
+• management (updating, modification etc.) of personal information
+
+4. Moderation of ads
+4.1 Deleting Illegal Ads
+Eurotech Xchange reserves the right to cancel, without notice, indemnity or right to refund, any Ad that does not comply with the rules of broadcasting of Eurotech Xchange and / or that could violate the rights of a third party.
+
+4.2 Notification of abuse
+Any User is allowed to report abusive content from the Website :
+
+• or by clicking on the link to report abusive content on each page of Ad.
+
+• either by mail in the contacts
+
+5. Liability and guarantees
+5.1 Undertaking of the Advertiser
+The Advertiser guarantees to hold all rights (including intellectual property rights) or to have obtained all the necessary authorizations for the publication of its Announcement.
+
+The Advertiser warrants that the Advertisement does not violate any applicable regulations (especially regarding advertising, competition, sales promotion, the use of personal data, the prohibition of the mar- keting of certain goods or services), nor any rights of third parties (including intellectual property rights and personality rights) and that it does not contain any message that is defamatory or harmful to third parties.
+
+Thus, the Advertiser undertakes in particular that the Advertisement does not contain :
+
+• any information that is false, misleading or likely to mislead Users
+
+• no defamatory or harmful statement to the interests and / or image of Eurotech Xchange or any third party
+
+• no content infringing the intellectual property rights of third parties
+
+• Advertiser undertakes to offer in the advertisements only available goods available to him.
+
+The Advertiser agrees, in case of unavailability of the property, to proceed with the with- drawal of the Announcement of the Website as soon as possible.
+
+The Advertiser declares to be aware of the extent of dissemination of the Website, to have taken every precaution to comply with the legislation in force at the places of reception and to release Eurotech Xchange of all responsibilities in this regard.
+
+In this context, the Advertiser declares and acknowledges that he is solely responsible for the content of the Advertisements he publishes and makes available to Users, as well as any document or information he transmits to Users (including his personal data: address , phone number, names, first names, company name, etc.).
+
+The advertiser agrees that this personal data (as he has informed them on his personal space) are published on the website.
+
+The Advertiser assumes full editorial responsibility for the content of the Advertisements it publishes.
+
+The Advertiser assumes full responsibility for the content of the contact details he publishes.
+
+Accordingly, the Advertiser relieves Eurotech Xchange, its subcontractors and suppliers, of all responsibilities, guarantees them against any recourse or action in connection with the Announcement that may be brought against them by any third party, and will take responsibility all damages and any costs and ex- penses to which they may be condemned or otherwise anticipated by a transactional agreement signed by them with such third party, notwithstanding any damages such as Eurotech Xchange, its subcontractors and providers could claim on the grounds of the Advertiser’s harmful facts.
+
+By depositing any Advert, the Advertiser acknowledges and agrees that Eurotech Xchange may cancel, or refuse, at any time, without compensation or right to reimbursement of sums incurred by the Advertiser for the purposes of its subscription, an Announcement that would be contrary in particular to the French law, to the rules of diffusion of the Website fixed by Eurotech Xchange and accessible here [general rules of diffusion] and / or likely to infringe the rights of thirds.
+
+Any Ad posted on the Website remains available as long as the Advertiser pays his subscription.
+
+Advertiser agrees that at the end of his subscription, his ads may be deleted.
+
+Nevertheless, Eurotech Xchange reserves the possibility to keep its advertisements in references without the name of the Advertiser being mentioned.
+
+The Advertiser also agrees that his Personal Account shall not contain :
+
+• no mandatory information false and / or misleading
+
+• no information infringing the rights of a third party
+
+In this context, the holder declares and acknowledges that he is solely responsible for the information provided when creating his Personal Account and / or his Pro Account.
+
+By creating a Personal Account, the Advertiser acknowledges and agrees that Eurotech Xchange may cancel, at any time, without compensation or right to reimbursement of sums incurred by the Advertiser for the purposes of subscription, an account that would be contrary in particular to French law and / or the rules of diffusion fixed by Eurotech Xchange and accessible here [general rules of diffusion].
+
+5.2 Liability and obligations of Eurotech Xchange
+Eurotech Xchange can not be held responsible for the content of Advertisements published by Advertisers and gives no guarantee, express or implied, in this regard. Eurotech Xchange is a third party relationship between Advertisers and Users, and thereby excludes any liabi- lity in this regard.
+
+All potential transactions take place directly between Advertisers and Users and Eurotech Xchange does not process payments between Advertisers and Users.
+
+5.3 Limitation of liability
+Eurotech Xchange undertakes to implement all necessary means to ensure the best delivery of the Service to Users and Advertisers.
+
+However, Eurotech Xchange declines any responsibility in case of :
+
+• interruptions, breakdowns, modifications and malfunctions of the Website whatever the communication medium used and regardless of the origin and source
+
+• loss of data or information stored by Eurotech Xchange. It is the responsibility of Advertisers to take all necessary precautions to keep the Ads they post via the Website;
+
+• temporary inability to access the Website due to technical problems regardless of origin and source
+
+• direct or indirect damage to the User or the Advertiser, whatever its nature, resulting from the content of the Advertisement and / or the access, management, use, exploitation, malfunction and / or interruption of the Website
+
+• abnormal use or illegal exploitation of the Website by any User or Advertiser
+
+• attack or hacking, deprivation, removal or prohibition, temporary or permanent, and for any reason whatsoever, of access to the Internet.
+
+Eurotech Xchange’s liability may be incurred only for direct damages suffered by the Advertiser, resulting from a breach of its contractual obligations as defined herein.
+
+The User and / or the Advertiser therefore waives any request for compensation to Eurotech Xchange for any reason whatsoever, indirect damages such as loss of profits, loss of opportunity, commercial or financial loss, increased fees loss or loss arising or being the consequence of the execution of the contract.
+
+Any User and Advertiser is then solely responsible for damage to third parties and the consequences of claims or actions that may arise. The User also waives any recourse against Eurotech Xchange in the case of a third party’s lawsuits against him as a result of the use and / or illegal exploitation of the Website, in the event of loss by a User or an Advertiser of his password or in case of usurpation of his identity. Users and Advertisers are solely responsible for the transactions and their consequences.
+
+6. Intellectual property
+6.1
+All intellectual property rights (such as in particular copyrights, related rights, trademark rights, rights of database producers) relating to both the structure and content of the Website and in particular images, sounds, videos , photographs, logos, brands, graphic elements, textual, visual, tools, software, documents, data, etc. (hereinafter referred to in their entirety as «Items») are reserved. These Elements are the property of Eurotech Xchange. These Elements are made available to Users and Advertisers, free of charge, for the sole use of the Website and as part of normal use of its features. Users and Advertisers undertake not to modify in any way the Elements. Any non-expressly permitted use of the Website Elements will result in copyright infringement and constitute an infringement. It may also result in a violation of image rights, rights of persons or any other rights and regulations in force. It can therefore incur the civil and / or criminal liability of its author.
+
+6.2
+It is forbidden for any User and Advertiser to copy, modify, create a derivative work, invert the design or assembly, or in any other way attempt to find the source code, sell, assign, sublicense or transfer in any way that this any rights in the Elements. Any User and Advertiser of the Website undertake in particular not to : • Use or query the Website on behalf of or for the benefit of others. • Copy the information on media of any kind to reconstruct all or part of the original files. Any reproduction, representation, publication, transmission, use, modification or extraction of all or part of the Elements in any manner whatsoever without the prior written permission of Eurotech Xchange is un- lawful. These unlawful acts engage the responsibility of its authors and are likely to lead to legal procee- dings against them and in particular for infringement.
+
+6.3
+Eurotech Xchange brands and logos are registered trademarks. Any total or partial reproduction of these trademarks and / or logos without the prior written permission of Eurotech Xchange is prohibited.
+
+6.4
+Eurotech Xchange is the producer of the databases of the Website. Consequently, any extraction and / or reuse of the database (s) is forbidden.
+
+6.5
+Eurotech Xchange reserves the right to take legal action against persons who have not respected the prohibi- tions contained in this article.
+
+6.6
+The Website may contain hypertext links to websites operated by third parties. These links are provided for information only. Eurotech Xchange has no control over these websites and declines all responsibility for the access, content or use of these websites, as well as damages that may result from the consultation of information on these websites. The decision to activate these links is the full responsibility of the User.
+
+6.7
+The content of the Advertisements belongs to the Advertisers, however, by posting Ads on the Website, the Advertiser grants:
+
+• to Eurotech Xchange the non-exclusive exploitation right, transferable, sublicensable, free of charge, for the whole world on all the contents of the Ads and in particular on photographs, texts, videos, illustrations, brands, logos, titles ( hereinafter the «Content»), as and when published on the website as well as a license on all intellectual property rights relating to the Content and in particular the copyright on the elements used in the content his Ad, such as photographs, texts, videos, drawings, illustrations, sound elements, for the entire legal term of his intellectual property rights and for the whole world. The rights thus granted include the right to reproduce, represent, broadcaste, distribute, adapt, modify, create a derivative work, translate all or part of the Content by any means, in any form whatsoever and in any medium (digital, printed ...) known or unknown to date, and this for commercial purposes or not and especially advertising, as well as as part of a broadcast on social networks on which Eurotech Xchange is present. In particular, the photographs of the Ads may be reproduced and integrated into adverti- sing formats posted on the Website and / or on social networks. The Advertiser grants its consent to the resumption of its Announcement and the Content of the latter on social networks. Therefore, the Advertiser certifies to have read the terms and conditions of use of the Facebook, Instagram, Snapchat, Youtube and Twitter websitesand to accept the terms, particularly with regard to the reuse of the Content and personal data.. Under this license, Eurotech Xchange, without incurring any obligation to act, has the right to oppose the reproduction and exploitation by unauthorized third parties of the Ads on the Website and of their Content .
+
+• To users, the non-exclusive right to access the Content via the Website and the Social networks and to use and represent the Content to the extent permitted by the functionality of the Website, for the entire world.
+
+7. Modification of the Website
+7.1
+Eurotech Xchange reserves the right, at any time, to modify or interrupt the accessibility of all or part of the Website.
+
+7.2
+Eurotech Xchange reserves the right to modify, at any time, all or part of the General Conditions of Sale. Users and Advertisers are invited to regularly review these General Terms and Conditions of Sale in order to be aware of any changes made. Use of the Website by Users and Advertisers constitutes their acceptance of the modifications made to the General Terms and Conditions of Sale.
+
+8. Miscellaneous
+If any part of the General Conditions of Sale should prove to be illegal, invalid or unenforceable, for any reason whatsoever, the provisions in question would be deemed unwritten, without calling into question the validity of the other provisions that will continue to apply. between Users or Advertisers and Eurotech Xchange. These General Conditions of Sale are subject to UAE Law
+
+terms of sales 
+1. definitions
+Each of the terms mentioned below will have, in these Terms of Use, the following meaning:
+
+Advertisement: means all the elements and data (visual, textual, sound, photographs, drawings), deposited by an Advertiser under its editorial responsibility, in order to buy, rent or sell a property or to offer a service and posted on the Website and Applications.
+
+Advertiser: refers to any major physical person or legal person who has submitted and posted an advertisement via the website www.Eurotech Xchange.com.
+
+Personal Account: means the space, accessible from the Website and Applications, which any Advertiser must have, and from which he can broadcast, manage, view his ads.
+
+Website: means the website accessible mainly from the URL www.Eurotech Xchange.com and allowing Users and Advertisers to access the website www.Eurotech Xchange.com via the Internet.
+
+User: means any visitor having access to www.Eurotech Xchange.com via the Internet.
+
+2. object
+These General Conditions of Sale establish the contractual conditions applicable to any subscription, by an Advertiser connected to his Personal Account from the Website.
+
+3. approval
+Any subscription by an Advertiser implies full and complete acceptance of the current General Conditions of Sale.
+
+4. subscription mode
+4.1 general rules
+The subscription proposed by Eurotech Xchange allows the posting of advertisements. This subscription offers rights for a fixed term. The duration of these rights is determined in the contract between the Advertiser and Eurotech Xchange. A subscription therefore has a start date and an end date. The subscription price may vary depending on the category of ads. Ads are classified (by default) on the Website in chronological order, according to the date and time of their posting. As a result, any Advertiser acknowledges and agrees that the presence at the top of the list of its Announcement is provisional. Eurotech Xchange nevertheless reserves the right to select the ads of its choice to position them at the top of the list.
+
+4.2 duration of subscription and announcements
+All ads placed by the Advertiser on his personal space have a limited duration that depends on the duration of the subscription of the Advertiser. Ads do not have an individual duration. All ads associated with a subscription expire at the same time as the validity date of the subscription is exceeded. The deletion of a Personal Account generally results in the suspension of any Ad (s) attached to this account and gives no right to indemnity or compensation, which the Advertiser acknowledges and accepts.
+
+4.3 renewal of a subscription
+The subscription is renewable by tacit agreement.
+
+4.4 termination of a subscription
+The Advertiser may terminate his subscription at any time by sending a registered letter with acknowledgment of receipt.
+
+This termination will have the effect :
+
+• the suspension of the personal account
+
+• suspending ads associated with the account
+
+• the cancellation of the tacit renewal of the subscription
+
+Nevertheless, this termination does not give any right to reimbursement or compensation for the payments already made, which the Advertiser acknowledges and accepts.
+
+5. payment and billing
+Any subscription will result in an invoice sent to the email address indicated by the Advertiser.
+
+5.1 refund
+Paid subscriptions are non-refundable. The cancellation by the Advertiser of a valid Personal Account does not give right to any refund or compensation, which the Advertiser acknowledges and accepts. The deletion of a Personal Account by Eurotech Xchange for non-compliance by the Advertiser of the rules of use does not give right to any refund or compensation, which the Advertiser acknowledges and accepts.
+
+5.2 retractation
+By validating the order, the Advertiser agrees that Eurotech Xchange starts to perform the service and therefore expressly waives its right of retractation.
+
+6. responsibility, force majeure
+Eurotech Xchange can not be held liable in case of non-performance or improper execution of the order due, either because of the Advertiser, or a case of force majeure.
+
+7. modification of the general conditions of sale
+The General Conditions of Sale are applicable from December 08, 2017. Eurotech Xchange reserves the right, at any time, to modify in whole or in part the General Conditions of Sale. Advertisers are invited to regularly consult the General Terms and Conditions of Sale to learn about the changes made.
+
+8. miscellaneous
+If any part of the General Terms and Conditions of Sale should prove to be illegal, invalid or unenforceable, for any reason whatsoever, the provisions in question would be deemed unwritten, without however canceling the other dispositions that will continue to apply between the Advertisers and Eurotech Xchange. The General Conditions of Sale are subject to UAE law.
+Disclosure
+Guiding principles:
+In connection with your transaction, Eurotech Xchange may acquire information about you as described in this notice, which we handle as stated in this notice.
+
+We may collect personally identifiable information such as name, postal address, telephone number, e-mail address, social security number, date of birth, etc This personal information is collected and used by Eurotech Xchange staff for the purpose of facilitating a relationship or business transaction.
+
+ 
+
+Our website resides behind a firewall and uses SSL (Secure Sockets Layer, the industry-standard security protocol used to communicate with browsers) to transmit personal information. Data is strongly encrypted during transmission to ensure that personal and payment information is secure. Industry-standard data encryption techniques are used to protect personal information on our servers. SSL-capable browsers typically have a symbol on the browser window to indicate when they are in a secure mode. In addition, the URL will begin with "https:" for all browsers.
+
+Eurotech Xchange does not sell, rent or disclose e-mail addresses to other organizations.
+
+Please read Eurotech Xchange's privacy policy before using this website. By using Eurotech Xchange's website, you acknowledge and agree you have read and agree to the following privacy terms.
+
+In connection with your transaction, whether online or at our dealership, Eurotech Xchange may acquire information about you as described in this policy, which Eurotech Xchange handles as stated in this policy. Eurotech Xchange may collect personally identifiable information such as name, postal address, telephone number, email address, social security number, date of birth, etc. While Eurotech Xchange makes reasonable efforts to secure all data submitted via this website, Eurotech Xchange cannot guarantee security of personal information, and all information submitted via this website is at your own risk.
+
+By visiting this website and/or agreeing to share your location with Eurotech Xchange, Eurotech Xchange may acquire non-personally identifiable information about you, such as your geographic location, internet service provider, internet browser, IP address, search engine or referral source you used to access this website, and browsing preferences. By using this website, you acknowledge and agree Eurotech Xchange may use this anonymized information to improve the experience of our customers and visitors to this website.
+
+Eurotech Xchange uses cookies on this website to help collect some identifiable personal data. The cookies also enable Eurotech Xchange to tie the URL of the device you use to provide certain personal information on Eurotech Xchange's website to other personal information you may provide to Eurotech Xchange at the dealership. This personal information is collected and used by Eurotech Xchange for the purpose of facilitating a relationship or business transaction and customizing Eurotech Xchange's interaction with you. By entering and using our website, and by voluntarily providing Eurotech Xchange with your personal information, you consent to Eurotech Xchange tying your personal information to the URL of the device you use to enter Eurotech Xchange's website. Disabling the cookies on your web browser or withholding your personal information at the dealership will prevent Eurotech Xchange from tying your URL to any personal information you provided to Eurotech Xchange at the dealership.
+
+ 
+
+In addition, Eurotech Xchange or our business partners use Google Analytics to help collect and process some of the information Eurotech Xchange collects about you. To learn more about how Google uses data when you use this site, please review Google’s privacy policy here: www.google.com/policies/privacy/partners/.
+
+Eurotech Xchange's website resides behind a firewall and uses SSL (Secure Sockets Layer, the industry-standard security protocol used to communicate with browsers) to transmit personal information. Data is strongly encrypted during transmission to ensure that personal and payment information is secure. Industry-standard data encryption techniques are used to protect personal information on our servers. SSL-capable browsers typically have a symbol on the browser window to indicate when they are in a secure mode. In addition, the URL will begin with "https:" for all browsers.
+
+Eurotech Xchange only shares your information with our affiliates or business partners, and such disclosure is made only in connection with our regular business practices. Eurotech Xchange does not sell, rent, or disclose email addresses to any other organizations.
+
+If you have any questions about this policy or Eurotech Xchange's privacy practices, please contact Eurotech Xchange.
+Cookies policy
+Eurotech understands that your privacy is important to you and that you care about how your personal data is used. We respect and value the privacy of everyone who visits this website and will only collect and use personal data in ways that are described here, and in a way that is consistent with our obligations and your rights under GDPR, CASL, PIPEDA and CCPA.
+
+How Do You Use Cookies?
+We use the following cookies:
+
+Strictly necessary cookies. These are cookies that are required for the operation of our site (nuvei.com), without them, you will not be able to use basic services like creating an account. Examples of how we use ‘strictly necessary’ cookies include; allowing (i)to identify trusted web traffic (ii) determine whether the visitor has accepted the cookie consent box; (iii) allow you to load the website faster by pre-loading certain procedures. Your consent will not be sought to place these Cookies, but it is still important that you are aware of them. You may still block these Cookies by changing your internet browser’s settings as detailed below, but please be aware that our sites may not work properly if you do so. We have taken great care to ensure that your privacy is not at risk by allowing them.
+
+Analytical/performance cookies. These cookies collect anonymous information on how people use our sites. These are used for statistical purposes; they don’t contain personal information. They allow us to recognize and count the number of visitors to our sites and to see how visitors move around our sites when they are using it. The cookies help us to improve the way our sites work. For example, they gather data about visits to the website, i.e. number of visitors, length of time spent on a page or where visitors have come from. These cookies help you find what you are looking for easier – and make your experience much smoother.
+
+Functionality cookies. These cookies are used to recognize you when you return to our sites. This enables us to personalize our content and the experience for you and remember your preferences (for example, your choice of language or region or remembering if you’ve been to the site before so that messages intended for first-time users are not displayed to you). The information these cookies collect maybe anonymized and they cannot track your browsing activity on other sites.
+
+Targeting and advertising cookies. These cookies record your visit to our Platform, the pages you have visited and the links you have followed. We will use this information to improve our services and the advertising displayed on the sites more relevant to your interests. We may also share this information with third parties for this purpose. Without these cookies, online adverts you encounter will be less relevant to you and your interests.
+
+location of eurotech
+Eurotech Exchange Est- FZCO Dubai Silicon Oasis DDP Bldg 1 Dubai, UAE
+
+E5655 kayenta court Las Vegas NV 89118
+
+support on eurotech
+info@eurotechxchange.com
+
+Disclaimer: The Eurotech Xchange is an independent luxury car platform and is not endorsed by, directly affiliated with, maintained, authorized, sponsored by or in any way connected with any car manufacturer.
+
+Become a member
+Your gateway to sell/ buy exotic cars
+Eurotech Xchange is more than just a platform to buy and sell exotic cars. It's a thriving community of passionate enthusiasts, collectors, and investors. Become a member and gain access to a world of exclusive benefits:
+
+Membership benefits:
+Exclusive Network Connect with fellow enthusiasts and industry experts.
+
+Early Access Be the first to view rare and exotic cars.
+
+Insider Knowledge Gain valuable industry insights and market trends
+
+Vibrant Community Share your passion with fellow car enthusiasts.
+
+Priority Service Enjoy expedited customer support.
+
+Tokenized OpportunitiesExplore innovative investment possibilities.
+
+About us
+At Eurotech Xchange, we are revolutionising the way people acquire and invest in exotic cars. With a meticulously curated selection of exotic cars, we provide you unprecedented access to automotive excellence. Whether you're a seasoned collector with a keen eye for rare gems or an investor looking to diversify your portfolio, our platform is designed to cater to your needs.
+
+What sets us apart is our commitment to providing a seamless experience, coupled with cutting-edge technology. With secure digital payments and innovative tokenization options, we ensure that every transaction is smooth, transparent, and secure.
+
+Why choose us
+Eurotech Xchange offers a quick and easy process with no stress involved. Eurotech Xchange will facilitate your vehicle purchase to you, no matter where you are located, Eurotech Xchange is a targeting being a leader in the digital platform exotic vehicle industry, making this process as simple as possible. No time wasted. No hassle or stress involved.
+Bid bye to hassle when you buy from us.
+Find your dream car.
+Browse from our collection and explore its details. Search by make, model, year, mileage, and other specific criteria.
+
+Make your offer.
+Securely complete your purchase through our escrow service.(Sellers have 24 hours to respond with a decline, acceptance, or counteroffer.)
+
+Enjoy the drive
+Get your car delivered to your doorstep.
+
+Explore Collection.
+Why buy from us?
+Peace of Mind: All vehicles undergo a thorough inspection and servicing by authorised franchise dealers within 6 months of listing, ensuring top-notch condition
+
+Verified History:Each car comes with a clean CarFax report reflecting the recent dealer service for your confidence
+
+Certified Service: Our dealer service includes addressing recalls, oil changes, and other essential maintenance, giving you a like-new driving experience
+
+Seamless Buying Process:Enjoy a stress-free buying journey with our secure platform, expert negotiation assistance, and efficient transaction handling.
+
+Selling your car with eurotech xchange
+
+
+Get the dream price for your dream car.
+List your car in minutes
+Submit your car's details online for a quick and transparent evaluation. An ECT Concierge will contact you to answer questions and guide you.
+
+Secure the best price
+Gain maximum exposure with your listing going live on our platform reaching a vast pool of qualified buyers. We handle it all - marketing, negotiations, and paperwork
+
+Get paid
+Get the top dollar for your car. Choose your preferred method of receiving payment – check or wire transfer
+
+Sell Vehicle
+Why choose us?
+Top dollar for your car.
+
+We leverage our expertise and extensive network to get you the maximum value for your exotic car.
+
+Hassle-free experience.
+
+Let us handle the entire selling process, from professional photography and marketing to negotiations and paperwork
+
+Transparent communication.
+
+Stay informed throughout the process with regular updates on the progress of your car's sale
+
+Maximum exposure.
+
+Reach a wider audience of qualified buyers through our established marketing channels
+
+Let's connect
+Your one-stop shop for a stress-free car buying or selling experience. Our expert team is here to guide you - from finding the perfect car at the best price to navigating the selling process smoothly.
+How is Eurotech Xchange different?
+Here at Eurotech Xchange, we focus on quality cars presented by quality buyers and sellers. We provide a host of additional services to help make the purchase of your next exotic run as smoothly as possible.
+
+How do I get started with Eurotech Xchange?
+Browse our available cars or explore the consignment process on our website. Feel free to contact us if you have any questions.
+Can Eurotech Xchange buy my car directly?
+Currently, we don't offer direct car purchases. However, our auction platform facilitates connections with potential buyers and maximises your chances of a successful sale
+
+What happens if my car doesn't sell at auction?
+If your car doesn't meet its reserve price, we may offer a post-auction sale option through "Buy Now" or discuss alternative strategies with you.
+Can I set a minimum selling price for my car?
+Yes, you can request a reserve price during the consignment process. We'll work with you to ensure your reserve is realistic based on market value
+What information do I need to provide about my car?
+We'll ask for key details like year, make, model, mileage, and condition. Once you submit your car for consignment, our team will contact you for further information
+
+What payment methods do you accept?
+We'll provide details on accepted payment methods closer to your purchase. Secure transactions are a priority at Eurotech Xchange.
+How do I know if a car has a reserve price?
+Reserve prices are not publicly displayed. However, most cars on Eurotech Xchange are auctioned with reserves to ensure sellers get a minimum price.
+What happens if a car reaches its reserve price but the seller rejects the final bid?
+The seller has 24 hours to accept or reject the highest bid after the auction closes. If rejected, the car may be offered in the "Buy Now" section for a potential post-auction sale.
+What is the 'Buy Now' option?
+The "Buy Now" section allows you to purchase a car that didn't reach its reserve price during the auction. Cars listed here come with a set price (including buyer's premium) or the option to make a "Final Offer" directly to the seller.
+How are verifications handled?
+All verifications are handled by our third party partner. We don't store, handle or ask you to email us any sensitive documents. This is to protect your privacy. If you receive ANY message requesting that you share sensitive and private information, please contact us immediately.
+
+What cars can I list on Eurotech Xchange?
+We focus on Exotic, Collectable, Sports and Supercars here at Eurotech Xchange. We love all cars but by focusing on our niche, we are able to more effectively help sell your vehicle!
+
