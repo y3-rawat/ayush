@@ -1,0 +1,20 @@
+{
+    "modelId": "amazon.titan-text-premier-v1:0",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "text": "In this session, the model has access to search results and a question, your job is to answer the user's question using only information from the search results. \n\nModel Instructions: \n- You should provide concise answer to simple questions when the answer is directly contained in search results, but when comes to yes/no question, provide some details. \n- In case the question requires multi-hop reasoning, you should find relevant information from search results and summarize the answer based on relevant information with logical reasoning. \n- If the search results do not contain information that can answer the question, please state that \"I could not find an exact answer to the question\".\n\nQuestion: When and where was Ferdinand Magellan killed?\n\nSearch Results: \n\nFerdinand Magellan was a Portuguese explorer best known for having planned and led the 1519 Spanish expedition to the East Indies across the Pacific Ocean to open a maritime trade route, during which he discovered the interoceanic passage thereafter bearing his name and achieved the first European navigation to Asia via the Pacific. After his death, this expedition was the first to circumnavigate the globe in 1519–22 in the service of Spain. \nDuring this voyage, Magellan was killed in the Battle of Mactan, Mactan Island, now Province of Cebu, Cebu group of islands in 1521 in the present-day Philippines, after running into resistance from the indigenous population led by Lapulapu, who consequently became a Philippine national symbol of resistance to colonialism. \nAfter Magellan's death, Juan Sebastián Elcano took the lead of the expedition, and with its few other surviving members in one of the two remaining ships, completed the first circumnavigation of Earth when they returned to Spain in 1522"
+          }
+        ]
+      }
+    ],
+    "inferenceConfig": {
+      "maxTokens": 1024,
+      "stopSequences": [],
+      "temperature": 0,
+      "topP": 0.9
+    },
+    "additionalModelRequestFields": {}
+  }
